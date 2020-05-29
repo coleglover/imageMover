@@ -1,5 +1,5 @@
 # imageMover
-This script automates the act of moving images from one directory to another based on a list (.csv) of filenames. 
+This script automates the act of moving images from one directory to another based on a (.csv) list of filenames. 
 
 Purpose & outputs: 
 
